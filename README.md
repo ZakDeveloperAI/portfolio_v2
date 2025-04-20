@@ -33,9 +33,6 @@ A Python-based AI assistant using **LangChain** and **HuggingFace**, capable of 
 ---
 
 ## 📫 Contact
-
-- 📍 Bergamo, Italy  
 - 📧 belfakhirzakaria@gmail.com  
-- 📱 +39 351 554 9940  
 
 Feel free to reach out for collaborations, job opportunities, or just to connect.
