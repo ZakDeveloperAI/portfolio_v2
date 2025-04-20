@@ -131,96 +131,115 @@ export const skillsData = [
   {
     language: "React",
     icon: SiReact,
-    color: "#61DAFB"
+    color: "#149ECA",         
+    darkColor: "#61DAFB"      // Preso dal primo array
   },
   {
     language: "React Native",
     icon: TbBrandReactNative,
-    color: "#61DAFB"
+    color: "#0D7A9D",         
+    darkColor: "#61DAFB"      // Preso dal primo array
   },
   {
     language: "Next.js",
     icon: SiNextdotjs,
-    color: "#FFFFFF" // Cambiato a bianco
+    color: "#000000",         
+    darkColor: "#FFFFFF"      // Preso dal primo array
   },
   {
     language: "JavaScript",
     icon: FaJs,
-    color: "#F7DF1E"
+    color: "#D6BA00",         
+    darkColor: "#F7DF1E"      // Preso dal primo array
   },
   {
     language: "TypeScript",
     icon: SiTypescript,
-    color: "#3178C6"
+    color: "#2B6CB0",         
+    darkColor: "#3178C6"      // Preso dal primo array
   },
   {
     language: "Node.js",
     icon: FaNode,
-    color: "#339933"
+    color: "#267326",         
+    darkColor: "#6CC24A"      // Preso dal primo array
   },
   {
     language: "Python",
     icon: FaPython,
-    color: "#3776AB"
+    color: "#2E5D87",         
+    darkColor: "#4B8BBE"      // Preso dal primo array
   },
   {
     language: "TensorFlow",
     icon: SiTensorflow,
-    color: "#FF6F00"
+    color: "#CC5B00",         
+    darkColor: "#FF8F00"      // Preso dal primo array
   },
   {
     language: "YOLO",
     icon: FaCube,
-    color: "#8A2BE2"
+    color: "#6A1B9A",         
+    darkColor: "#9D4DFF"      // Preso dal primo array
   },
   {
     language: "LangChain",
     icon: GiArtificialIntelligence,
-    color: "#D72E62"
+    color: "#AD1A4D",         
+    darkColor: "#FF3366"      // Preso dal primo array
   },
   {
     language: "Flask",
     icon: SiFlask,
-    color: "#FF0000" // Cambiato a rosso
+    color: "#A31D1D",         
+    darkColor: "#FF4444"      // Preso dal primo array
   },
   {
     language: "Git",
     icon: FaGitAlt,
-    color: "#F05032"
+    color: "#D33816",         
+    darkColor: "#F05032"      // Preso dal primo array
   },
   {
     language: "Tailwind",
     icon: SiTailwindcss,
-    color: "#38B2AC"
+    color: "#2A918F",         
+    darkColor: "#44C1C1"      // Preso dal primo array
   },
   {
     language: "Expo",
     icon: SiExpo,
-    color: "#FFFFFF" // Cambiato a bianco
+    color: "#3520B0",         
+    darkColor: "#858BFF"      // Preso dal primo array
   },
   {
     language: "MongoDB",
     icon: SiMongodb,
-    color: "#47A248"
+    color: "#3C803C",         
+    darkColor: "#6BCB77"      // Preso dal primo array
   },
   {
     language: "GraphQL",
     icon: SiGraphql,
-    color: "#E535AB"
+    color: "#C41C7D",         
+    darkColor: "#FF79C6"      // Preso dal primo array
   },
   {
     language: "Express",
     icon: SiExpress,
-    color: "#FF6600" // Cambiato a arancione
+    color: "#CC5500",         
+    darkColor: "#FF9248"      // Preso dal primo array
   },
   {
     language: "SQL",
     icon: SiPostgresql,
-    color: "#336791"
+    color: "#2B4F6E",         
+    darkColor: "#4F9DD6"      // Preso dal primo array
   },
   {
     language: "Framer Motion",
     icon: SiFramer,
-    color: "#0055FF"
+    color: "#0044CC",         
+    darkColor: "#4D8AFF"      // Preso dal primo array
   }
 ] as const;
