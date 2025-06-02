@@ -64,7 +64,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Zakaria.</span> I'm an{" "}
         <span className="font-bold">AI & Full‑Stack Developer</span> with{" "}
-        <span className="font-bold">2+ years</span> of experience. I specialize in{" "}
+        <span className="font-bold">1+ years</span> of experience. I specialize in{" "}
         <span className="italic">AI‑powered applications</span> and{" "}
         <span className="underline">React.js & React Native</span>.
       </motion.h1>
