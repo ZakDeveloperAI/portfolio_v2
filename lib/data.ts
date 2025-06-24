@@ -60,9 +60,9 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "AI & Software Developer – Aesthetic Machinery Company",
+    title: "Generative & Agentic AI Engineer – Business Group SRL",
     location: "Bottanuco, BG (Hybrid)",
-    description: "Integrated AI models into industrial machinery; trained YOLO models with Python; developed mobile apps with React Native.",
+    description: "Integrated AI models into industrial machinery; trained YOLO models with Python; developed mobile apps with React Native; created AI Chatbots and Agents with RAG structure based on LangChain/LangGraph.",
     icon: React.createElement(CgWorkAlt),
     date: "Mar 2025 – Present"
   },
